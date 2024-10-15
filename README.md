@@ -25,8 +25,8 @@ To get started with FlowTrack, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/harsh11x/FlowTrack.git
-   cd FlowTrack
+   git clone https://github.com/harsh11x/flowtrack.git
+   cd flowtrack
    ```
 
 2. **Install required dependencies**:
